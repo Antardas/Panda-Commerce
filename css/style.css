@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --pink-300: #DA70D6;
+    --pink-500: #FF267C;
+}
+.light-pink {
+    background-color: var(--pink-300);
+}
